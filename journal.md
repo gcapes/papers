@@ -6,6 +6,10 @@ over West Africa
 John Smith, University of SomewhereElse
 Gerard Capes, University of Manchester
 
+#Abstract
+Write this bit last.
+Summarise key points, this is the only bit that will
+be read, in addition to the figures.
 
 # Introduction
 BBOA are important for the radiative effect
