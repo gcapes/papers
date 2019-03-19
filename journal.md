@@ -17,3 +17,7 @@ body of knowledge using Mass Spectrometer data
 # Simulations
 John's box model is consistent with coagulation
 as the dominant growth mechanism.
+
+# Methodology
+We used a ToF-AMS to measure aerosol mass and composition
+(Smith et al 2001).
